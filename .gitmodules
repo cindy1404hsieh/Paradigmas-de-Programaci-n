@@ -1,0 +1,6 @@
+[submodule "TP1"]
+	path = TP1
+	url = https://github.com/cindy1404hsieh/TP1_Paradigmas_de_Programacion.git
+[submodule "TP2"]
+	path = TP2
+	url = https://github.com/cindy1404hsieh/TP2_Paradigmas_de_Programacion.git
